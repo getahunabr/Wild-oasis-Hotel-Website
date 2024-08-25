@@ -177,7 +177,11 @@ h6 {
   overflow-wrap: break-word;
   hyphens: auto;
 }
-
+h4{
+  font-size: 3rem;
+      font-weight: 800;
+      text-align: center;
+}
 img {
   max-width: 100%;
 
